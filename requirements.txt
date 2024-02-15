@@ -1,0 +1,6 @@
+python==3.12.1
+numpy==1.26.4
+pandas==2.2.0
+thefuzz==0.22.1
+seaborn==0.13.2
+matplotlib==3.8.2
