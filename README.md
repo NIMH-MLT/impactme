@@ -1,4 +1,4 @@
-# ImpactME timepoint 2 transcript cleaning notebook
+# Outcomes that matter to depressed adolescents can be identified with large language models
 
 Notebooks contain extraneous code that is not essential to the modeling pipeline, such as visualization and creating figures. These are briefly acknowledged in the summary, but are skipped during the more detailed descriptions of each modeling step in Sections 1-3 below. 
 
